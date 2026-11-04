@@ -1,0 +1,26 @@
+{
+  "title": "Contemporary R&B",
+  "study": "rb01",
+  "bpm": 78,
+  "source_audio": "preview/contemporary-rnb-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "fa196694e429b1499ac244d7aae3811e9be5ea56f4e3e4abeb6ed5da00aa47c5",
+  "source_midi": "midi/rb01-quiet-signal/rb01-quiet-signal-combined.mid",
+  "source_midi_sha256": "89bbb23673b659dfaa80c22657d34200995c99b40ccf80cf5f1ca8d7d3736d7d",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "9394d8706c75c648e7b61fc56dd6552d4bee58cdcd36a9e14dc00f1b8c6a37ae",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "99dac363a4bc287eb68e5e4eacc53f437f6995de1e402e13ac38bc0884874657",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "bcf65b033dcab7e57d7c3eb55c8113cd2f71dd3ae517f05fb34073886c9070e5",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
