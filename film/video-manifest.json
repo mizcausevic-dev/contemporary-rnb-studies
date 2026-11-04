@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/contemporary-rnb-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "fa196694e429b1499ac244d7aae3811e9be5ea56f4e3e4abeb6ed5da00aa47c5",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "b67b17cc212663e9ed77f86e544154c943318c091e9472053de10ba720734e01",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

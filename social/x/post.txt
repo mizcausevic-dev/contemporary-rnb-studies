@@ -1,0 +1,3 @@
+DRAFT: Contemporary R&B Studies is a four-study original MIDI release at 78 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 139 characters using Python len

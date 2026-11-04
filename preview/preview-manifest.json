@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/contemporary-rnb-studies-simple-synth-preview.mp3",
+  "preview_sha256": "fa196694e429b1499ac244d7aae3811e9be5ea56f4e3e4abeb6ed5da00aa47c5",
+  "source_midi_path": "midi/rb01-quiet-signal/rb01-quiet-signal-combined.mid",
+  "source_midi_sha256": "89bbb23673b659dfaa80c22657d34200995c99b40ccf80cf5f1ca8d7d3736d7d",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "rb01",
+    "start_seconds": 0,
+    "end_seconds": 98.462
+  },
+  "measurement": {
+    "sample_peak": 0.140691,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
