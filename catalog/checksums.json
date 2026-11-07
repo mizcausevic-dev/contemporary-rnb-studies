@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 785,
-      "sha256": "4d0e5c1e95ab492f0e42d81fdd3f4fd702f3d107ce4b4e1012bd36894412598e"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3554,
-      "sha256": "5d680fc3ba9353c2f16b8f6a4d508c1252b21347205397331e340f01555bca2d"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -113,8 +103,8 @@
     },
     {
       "path": "downloads/contemporary-rnb-studies-midi.zip",
-      "bytes": 21364,
-      "sha256": "89666e4ba7349857ef0703f9b5bfb8e2864f91b09fece753eff99577eb39c131"
+      "bytes": 23148,
+      "sha256": "6ba4e7297c09056d1fcaf98e705142d30a2b85ae7cef4c09b0e6d6449ba586f5"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -135,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 34658,
       "sha256": "b849b94f048babc26d4d07adb52c105bf457643ab4994553573da9276f91bb50"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 849303,
-      "sha256": "bcf65b033dcab7e57d7c3eb55c8113cd2f71dd3ae517f05fb34073886c9070e5"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -168,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9237,
-      "sha256": "92eeeabe5da0cbc2f924f5e7b1465ea8264ec2eaad46098d9b452f784ded450a"
+      "bytes": 9427,
+      "sha256": "562ebea1b092178646ecee92c89dd91d84aae09e116bdbdc9ae668b2eb11d409"
     },
     {
       "path": "midi/rb01-quiet-signal/chord_pulse.mid",
@@ -312,6 +297,16 @@
       "sha256": "f0c6b85de8ac4b738fe16552785372885de9e7a7d2b1b495cbd6232e12b8b6f0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 785,
+      "sha256": "4d0e5c1e95ab492f0e42d81fdd3f4fd702f3d107ce4b4e1012bd36894412598e"
+    },
+    {
       "path": "preview/contemporary-rnb-studies-simple-synth-preview.mp3",
       "bytes": 2376769,
       "sha256": "fa196694e429b1499ac244d7aae3811e9be5ea56f4e3e4abeb6ed5da00aa47c5"
@@ -320,6 +315,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1139,
       "sha256": "3479e6806bba5d4f5e9657085ec8523b81e2f7e96adf012d6701574a3c4e8ba1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3669,
+      "sha256": "ee2b05c4063945b16b73f39dd7d54af2c75157701fc31b0f3c0415a6468fe0f9"
     },
     {
       "path": "social/instagram/caption.txt",
